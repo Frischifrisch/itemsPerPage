@@ -7,6 +7,7 @@
 // @author       Christian Frischholz - https://github.com/Frischifrisch - https://github.com/Frischifrisch/itemsPerPage
 // @match        https://mediathekviewweb.de/*
 // @grant        none
+// @license      itemsPerPage © 2024 by Christian Frischholz is licensed under CC BY-NC-SA 4.0
 // ==/UserScript==
 
 (function() {
